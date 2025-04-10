@@ -18,7 +18,8 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
   <summary><strong>🧪 Languages</strong></summary>
   <ul>
     <li>Java</li>
-    <li>SQL / PL-SQL</li>
+    <li>SQL / PL-SQL (Básico)</li>
+    <li>Python para Análise de Dados</li>
   </ul>
 </details>
 
