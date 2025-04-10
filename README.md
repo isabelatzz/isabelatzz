@@ -11,6 +11,7 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
   <ul>
     <li>Intelij</li>
     <li>Oracle APEX IDE</li>
+    <li>VS Code</li>
   </ul>
 </details>
 
