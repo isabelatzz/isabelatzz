@@ -9,7 +9,7 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
 <details>
   <summary><strong>💻 Code editors</strong></summary>
   <ul>
-    <li>VS Code</li>
+    <li>Intelij</li>
     <li>Oracle APEX IDE</li>
   </ul>
 </details>
@@ -35,6 +35,9 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
     <li>Java Swing</li>
     <li>Oracle APEX</li>
     <li>Figma (UI/UX)</li>
+    <li>Excel</li>
+    <li>PowerBI</li>
+    <li>JUnit</li>
   </ul>
 </details>
 
