@@ -19,7 +19,6 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
   <ul>
     <li>Java</li>
     <li>SQL / PL-SQL</li>
-    <li>HTML + CSS (básico)</li>
   </ul>
 </details>
 
@@ -27,7 +26,6 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
   <summary><strong>🖥️ Computer / OS</strong></summary>
   <ul>
     <li>Windows 10</li>
-    <li>Linux (usando em paralelo)</li>
   </ul>
 </details>
 
