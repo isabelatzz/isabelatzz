@@ -8,7 +8,7 @@
       </p>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/isabelatzz/isabelatzz/main/assets/cat-pixel.jpeg" width="200px" alt="Gato pixelado no computador"/>
+      <img src=<img src="https://raw.githubusercontent.com/isabelatzz/isabelatzz/main/transferir%20(1).jpeg" width="200px" alt="Gato pixelado no computador"/>
       <p align="right"><i>“Programs must be written for people to read, and only incidentally for machines to execute.”</i><br>
       — Harold Abelson & Gerald Jay Sussman<br>
       🧠 <i>(Tecnologia com propósito começa quando pensamos em pessoas, não só em código.)</i></p>
