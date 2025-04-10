@@ -4,14 +4,52 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
 
 ---
 
-### 🚀 Sobre mim
+## 🌿 Tech I'm currently using:
 
-- 🎓 Estudante de [coloque seu curso aqui — ex: Sistemas de Informação]
-- 🧠 Estudando Java, SQL, PL/SQL e Oracle APEX
-- 🐾 Criando um sistema real para o pet shop **PetLover**
-- 📚 Desenvolvendo um app de biblioteca pessoal
-- 💼 Buscando oportunidades em **desenvolvimento de software**, **UX/UI** ou **inteligência de negócios**
+<details>
+  <summary><strong>💻 Code editors</strong></summary>
+  <ul>
+    <li>VS Code</li>
+    <li>Oracle APEX IDE</li>
+  </ul>
+</details>
 
+<details>
+  <summary><strong>🧪 Languages</strong></summary>
+  <ul>
+    <li>Java</li>
+    <li>SQL / PL-SQL</li>
+    <li>HTML + CSS (básico)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🖥️ Computer / OS</strong></summary>
+  <ul>
+    <li>Windows 10</li>
+    <li>Linux (usando em paralelo)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🧰 Frameworks / Ferramentas</strong></summary>
+  <ul>
+    <li>Java Swing</li>
+    <li>Oracle APEX</li>
+    <li>Figma (UI/UX)</li>
+  </ul>
+</details>
+
+---
+
+## 🌱 I’m currently learning
+
+- Padrões de Projeto (MVC, DAO)
+- Java Orientado a Objetos
+- Integração de sistemas desktop com banco de dados
+- Lógica de programação avançada
+
+---
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -35,8 +73,8 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
 
 ### 📫 Como falar comigo?
 
-- ✉️ [Seu e-mail aqui]
-- 💼 [LinkedIn, se quiser colocar]
+- ✉️ isabela.silva@dcx.ufpb.br
+- 💼 https://www.linkedin.com/in/isabela-silva-de-ara%C3%BAjo/
 - 💡 Sempre aberta a trocar ideias, aprender com a galera e colaborar em projetos legais!
 
 ---
