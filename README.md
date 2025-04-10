@@ -1,13 +1,31 @@
-## 👋 Oi, eu sou a Isabela!
+<h1 align="center">Olá! | Hello there 👋</h1>
 
-Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atualmente, estou explorando o mundo da programação com foco em back-end e aplicações desktop — e de vez em quando brinco com front-end também! 💻✨
+<table>
+  <tr>
+    <td>
+      <p>
+        Olá! Sou Isabela, graduanda em Ciência da Computação na UFPB. Tenho interesse tanto na análise de dados quanto em processos do desenvolvimento de software, especialmente nas etapas de análise de requisitos e testes de software.
+      </p>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/isabelatzz/isabelatzz/main/assets/cat-pixel.jpeg" width="200px" alt="Gato pixelado no computador"/>
+      <p align="right"><i>“Programs must be written for people to read, and only incidentally for machines to execute.”</i><br>
+      — Harold Abelson & Gerald Jay Sussman<br>
+      🧠 <i>(Tecnologia com propósito começa quando pensamos em pessoas, não só em código.)</i></p>
+    </td>
+  </tr>
+</table>
+### 🌱 Experiências
 
+- **LABIMEC/UFPB** – Análise e visualização de dados macroeconômicos.
+- **PIBID/CAPES** – Inclusão digital no ensino básico com foco em programação.
+- **Projetos acadêmicos** – Desenvolvimento de sistemas em Java com testes e interface gráfica.
+  
 ---
 
-## 🌿 Tech I'm currently using:
-
+## ⚙️ Tecnologias que uso/estudo
 <details>
-  <summary><strong>💻 Code editors</strong></summary>
+  <summary><strong> Code editors</strong></summary>
   <ul>
     <li>Intelij</li>
     <li>Oracle APEX IDE</li>
@@ -16,7 +34,7 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
 </details>
 
 <details>
-  <summary><strong>🧪 Languages</strong></summary>
+  <summary><strong> Languages</strong></summary>
   <ul>
     <li>Java</li>
     <li>SQL / PL-SQL (Básico)</li>
@@ -25,14 +43,7 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
 </details>
 
 <details>
-  <summary><strong>🖥️ Computer / OS</strong></summary>
-  <ul>
-    <li>Windows 10</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>🧰 Frameworks / Ferramentas</strong></summary>
+  <summary><strong> Frameworks / Ferramentas</strong></summary>
   <ul>
     <li>Java Swing</li>
     <li>Oracle APEX</li>
@@ -45,25 +56,24 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
 
 ---
 
-## 🌱 I’m currently learning
+## 📚 O que estou aprendendo atualmente
 
 - Padrões de Projeto (MVC, DAO)
 - Java Orientado a Objetos
-- Integração de sistemas desktop com banco de dados
-- Lógica de programação avançada
+- Análise de Dados
+- Testes de Software
 
 ---
 
-### 🛠️ Tecnologias que uso/estudo
-
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Oracle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Excel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" />
-<img align="left" alt="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Oracle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+<img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" />
+<img align="left" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 <br><br>
+
 ---
 
 ### 📈 Stats
@@ -82,4 +92,3 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atual
 ---
 
 Obrigada por visitar meu perfil! 🌸  
-Sinta-se à vontade para explorar meus repositórios. 🚀
