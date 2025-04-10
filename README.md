@@ -1,21 +1,21 @@
-<h1 align="center">Olá! | Hello there 👋</h1>
+<h1 align="center">☕ Hello World! | Versão: Isabela Edition</h1>
 
 <table>
   <tr>
     <td>
       <p>
-        Olá! Sou Isabela, graduanda em Ciência da Computação na UFPB. Tenho interesse tanto na análise de dados quanto em processos do desenvolvimento de software, especialmente nas etapas de análise de requisitos e testes de software.
+        Olá! Sou Isabela, graduanda em Ciência da Computação na UFPB. Com múltiplos interesses, tanto na análise de dados quanto em processos do desenvolvimento de software, especialmente nas etapas de análise de requisitos e testes de software! Explorando esse oceano de possibilidades que a computação oferece. *ੈ✩‧₊˚
       </p>
     </td>
     <td>
-      <img src=<img src="https://raw.githubusercontent.com/isabelatzz/isabelatzz/main/transferir%20(1).jpeg" width="200px" alt="Gato pixelado no computador"/>
-      <p align="right"><i>“Programs must be written for people to read, and only incidentally for machines to execute.”</i><br>
+      <img src="https://raw.githubusercontent.com/isabelatzz/isabelatzz/main/transferir%20(1).jpeg" width="300px" alt="Gato pixelado no computador"/>
+      <p align="right"><i>“Tecnologia com propósito começa quando pensamos em pessoas, não só em código.”</i><br>
       — Harold Abelson & Gerald Jay Sussman<br>
-      🧠 <i>(Tecnologia com propósito começa quando pensamos em pessoas, não só em código.)</i></p>
     </td>
   </tr>
 </table>
-### 🌱 Experiências
+
+## 🌱 Experiências
 
 - **LABIMEC/UFPB** – Análise e visualização de dados macroeconômicos.
 - **PIBID/CAPES** – Inclusão digital no ensino básico com foco em programação.
