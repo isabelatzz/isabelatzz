@@ -18,7 +18,7 @@
 ## 🌱 Experiências
 
 - **LABIMEC/UFPB** – Análise e visualização de dados macroeconômicos.
-- **PIBID/CAPES** – Inclusão digital no ensino básico com foco em tecnologia de acordo com normas da BNCC.
+- **PIBID/CAPES** – Inclusão digital no ensino básico com foco em tecnologia de acordo com normas da BNCC de Computação.
 - **Projetos acadêmicos** – Desenvolvimento de sistemas em Java com testes e interface gráfica.
 - **Trabalhos Freelance em Design** – Desenvolvimento de identidades visuais, artes digitais, convites personalizados e conteúdo para redes sociais.
   
