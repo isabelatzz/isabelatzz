@@ -4,7 +4,7 @@
   <tr>
     <td>
       <p>
-        Olá! Sou Isabela, graduanda em Ciência da Computação na UFPB. Com múltiplos interesses, tanto na análise de dados quanto em processos do desenvolvimento de software, especialmente nas etapas de análise de requisitos e testes de software! Explorando esse oceano de possibilidades que a computação oferece. *ੈ✩‧₊˚
+        Olá! Sou Isabela, graduanda em Ciência da Computação na UFPB. Com múltiplos interesses, tanto na análise de dados quanto em processos do desenvolvimento de software, especialmente nas etapas de análise de requisitos e testes de software (E design!) ! Explorando esse oceano de possibilidades que a computação oferece. *ੈ✩‧₊˚
       </p>
     </td>
     <td>
@@ -18,8 +18,9 @@
 ## 🌱 Experiências
 
 - **LABIMEC/UFPB** – Análise e visualização de dados macroeconômicos.
-- **PIBID/CAPES** – Inclusão digital no ensino básico com foco em programação.
+- **PIBID/CAPES** – Inclusão digital no ensino básico com foco em tecnologia de acordo com normas da BNCC.
 - **Projetos acadêmicos** – Desenvolvimento de sistemas em Java com testes e interface gráfica.
+- **Trabalhos Freelance em Design** – Desenvolvimento de identidades visuais, artes digitais, convites personalizados e conteúdo para redes sociais.
   
 ---
 
@@ -58,7 +59,7 @@
 
 ## 📚 O que estou aprendendo atualmente
 
-- Padrões de Projeto (MVC, DAO)
+- Boas práticas e padrões de design (GRASP, MVC, DAO)
 - Java Orientado a Objetos
 - Análise de Dados
 - Testes de Software
