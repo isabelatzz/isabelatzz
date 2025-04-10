@@ -4,7 +4,7 @@
   <tr>
     <td>
       <p>
-        Olá! Sou Isabela, graduanda em Ciência da Computação na UFPB. Com múltiplos interesses, tanto na análise de dados quanto em processos do desenvolvimento de software, especialmente nas etapas de análise de requisitos, testes de software e design! Explorando esse oceano de possibilidades que a computação oferece. *ੈ✩‧₊˚
+        Olá! Sou Isabela, graduanda em Ciência da Computação na UFPB. Com múltiplos interesses, tanto na análise de dados quanto em processos do desenvolvimento de software, especialmente nas etapas de análise de requisitos, testes de software e design de interfaces! Explorando esse oceano de possibilidades que a computação oferece. *ੈ✩‧₊˚
       </p>
     </td>
     <td>
