@@ -15,55 +15,6 @@
   </tr>
 </table>
 
-## 🌱 Experiências
-
-- **LABIMEC/UFPB** – Análise e visualização de dados macroeconômicos.
-- **PIBID/CAPES** – Inclusão digital no ensino básico com foco em tecnologia de acordo com normas da BNCC de Computação.
-- **Projetos acadêmicos** – Desenvolvimento de sistemas em Java com testes e interface gráfica.
-- **Trabalhos Freelance em Design** – Desenvolvimento de identidades visuais, artes digitais, convites personalizados e conteúdo para redes sociais.
-  
----
-
-## ⚙️ Tecnologias que uso/estudo
-<details>
-  <summary><strong> Code editors</strong></summary>
-  <ul>
-    <li>Intelij</li>
-    <li>Oracle APEX IDE</li>
-    <li>VS Code</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong> Languages</strong></summary>
-  <ul>
-    <li>Java</li>
-    <li>SQL / PL-SQL (Básico)</li>
-    <li>Python para Análise de Dados</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong> Frameworks / Ferramentas</strong></summary>
-  <ul>
-    <li>Java Swing</li>
-    <li>Oracle APEX</li>
-    <li>Figma (UI/UX)</li>
-    <li>Excel</li>
-    <li>PowerBI</li>
-    <li>JUnit</li>
-  </ul>
-</details>
-
----
-
-## 📚 O que estou aprendendo atualmente
-
-- Boas práticas e padrões de design (GRASP, MVC, DAO)
-- Java Orientado a Objetos
-- Análise de Dados
-- Testes de Software
-
 ---
 
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
