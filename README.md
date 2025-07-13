@@ -4,7 +4,7 @@
   <tr>
     <td>
       <p>
-        Olá! me chamo Isabela, graduanda em Ciência da Computação na UFPB. Com múltiplos interesses, tanto na análise de dados quanto em processos do desenvolvimento de software, especialmente nas etapas de testes de software e análise de sistemas! Explorando esse oceano de possibilidades que a computação oferece. *ੈ✩‧₊˚
+        Olá! me chamo Isabela, graduanda em Ciência da Computação na UFPB!
       </p>
     </td>
     <td>
