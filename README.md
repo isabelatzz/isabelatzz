@@ -1,10 +1,10 @@
-<h1 align="center">☕ Hello World! | Versão: Isabela Edition</h1>
+<h1 align="center">👩🏻‍💻 Bem-vindo(a) ao meu GitHub! </h1>
 
 <table>
   <tr>
     <td>
       <p>
-        Olá! me chamo Isabela, graduanda em Ciência da Computação na UFPB!
+        👋 Olá! me chamo Isabela, graduanda do 4º período de Ciência da Computação na UFPB! 
       </p>
     </td>
     <td>
